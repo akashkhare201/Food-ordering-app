@@ -1,4 +1,4 @@
-#Namastey-React
+
 /* Header
  - logo(title)
  - navigation tags offers, help , sign in(right side)
